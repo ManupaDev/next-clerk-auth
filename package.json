@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "@clerk/nextjs": "^4.16.4",
     "@heroicons/react": "^2.0.17",
     "clsx": "^1.2.1",
     "eslint-config-next": "^13.3.0",
